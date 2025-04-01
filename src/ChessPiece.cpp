@@ -4,62 +4,33 @@
 
 #include "ChessPiece.h"
 
-
 class ChessPiece {
 private:
-    int positionX;
-    int positionY;
-    int pieceNumber{};
+    int positionX{};
+    int positionY{};
+    int pieceId{};
     static int pieceCounter;
 
 public:
-    virtual ~ChessPiece() = default;
+    ChessPiece(int xPos_, int yPos_) : positionX(xPos_), positionY(yPos_) {pieceCounter++; this->pieceId = pieceCounter;};
 
-    int pieceId;
-    ChessPiece(int xPos_, int yPos_) : positionX(xPos_), positionY(yPos_) {pieceCounter++; pieceId = ChessPiece::pieceCounter;};
-
-    static bool checkOffMap(int xPos, int yPos) {
-        return (xPos > 7 || xPos < 0 || yPos > 7 || yPos < 0);
+    bool checkOffMap() const {
+        return (this->positionX > 7 || this->positionX < 0 || this->positionY > 7 || this->positionY < 0);
     }
 
-    virtual void moveChoice();
-    constexpr bool isWhitePiece() const {
-        return pieceId <= 16;
+    bool isWhitePiece() const {
+        return this->pieceId <= 16;
     }
 };
 
-class Pawn : public ChessPiece {
-private:
-public:
-    Pawn(int xPos_, int yPos_) : ChessPiece(xPos_, yPos_) {};
-};
+class Pawn;
 
-class Rook : public ChessPiece {
-private:
-public:
-    Rook(int xPos_, int yPos_) : ChessPiece(xPos_, yPos_) {};
-};
+class Rook;
 
-class Bishop : public ChessPiece {
-private:
-public:
-    Bishop(int xPos_, int yPos_) : ChessPiece(xPos_, yPos_) {};
-};
+class Bishop;
 
-class Knight : public ChessPiece {
-private:
-public:
-    Knight(int xPos_, int yPos_) : ChessPiece(xPos_, yPos_) {};
-};
+class Knight;
 
-class Queen : public ChessPiece {
-private:
-public:
-    Queen(int xPos_, int yPos_) : ChessPiece(xPos_, yPos_) {};
-};
+class Queen;
 
-class King : public ChessPiece {
-private:
-public:
-    King(int xPos_, int yPos_) : ChessPiece(xPos_, yPos_) {};
-};
+class King;
