@@ -4,11 +4,12 @@
 
 int main()
 {
-    auto window = sf::RenderWindow(sf::VideoMode({520u, 520u}), "CMake SFML Project");
+    auto window = sf::RenderWindow(sf::VideoMode({800u, 800u}), "Chess Game");
     window.setFramerateLimit(144);
 
+
     ChessBoard chessBoard;
-    chessBoard.createBoard();
+    chessBoard.populateBoard();
 
     while (window.isOpen())
     {
@@ -18,8 +19,9 @@ int main()
                 window.close();
             }
         }
-        window.clear();
-        chessBoard.displayBoard(window);
+        window.clear(sf::Color::White);
+        chessBoard.display(window);
+
         window.display();
     }
 }
