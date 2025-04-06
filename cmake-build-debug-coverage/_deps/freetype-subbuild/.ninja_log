@@ -1,0 +1,21 @@
+# ninja log v6
+3	61	7653395958756746	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	db7d48823f452a45
+3	61	7653395958756746	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	db7d48823f452a45
+3	14686	7656008574498965	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	81959d05a3452a26
+3	14686	7656008574498965	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	81959d05a3452a26
+14687	14870	7656008574574165	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	9c60b8bd725e1840
+14687	14870	7656008574574165	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	9c60b8bd725e1840
+14870	14946	7656008577067394	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	ebb3a66efca6983f
+14870	14946	7656008577067394	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	ebb3a66efca6983f
+14946	15014	7656008577743866	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	879b30a6ca40b62a
+14946	15014	7656008577743866	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	879b30a6ca40b62a
+15015	15085	7656008578479936	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	64694891eb303582
+15015	15085	7656008578479936	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	64694891eb303582
+15085	15148	7656008579116034	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	f5c73f9a295a1f66
+15085	15148	7656008579116034	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	f5c73f9a295a1f66
+15149	15213	7656008579744131	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	55b1812d46e54ae3
+15149	15213	7656008579744131	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	55b1812d46e54ae3
+15213	15303	7656008580671498	CMakeFiles/freetype-populate-complete	39937d4627e8b9fc
+15213	15303	7656008580671498	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	39937d4627e8b9fc
+15213	15303	7656008580671498	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	39937d4627e8b9fc
+15213	15303	7656008580671498	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	39937d4627e8b9fc

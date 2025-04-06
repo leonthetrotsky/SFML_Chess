@@ -1,0 +1,21 @@
+# ninja log v6
+2	74	7656008660172966	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	6a1142258893f62e
+2	74	7656008660172966	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	6a1142258893f62e
+74	2848	7656008687938117	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	15255de3941dbeab
+74	2848	7656008687938117	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	15255de3941dbeab
+2849	3012	7656008688021069	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	f9e9fa5f91ef0846
+2849	3012	7656008688021069	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	f9e9fa5f91ef0846
+3012	3082	7656008690264516	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	ceb23902198dd2d8
+3012	3082	7656008690264516	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	ceb23902198dd2d8
+3082	3148	7656008690899930	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	7b868da1cd7220cf
+3082	3148	7656008690899930	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	7b868da1cd7220cf
+3148	3211	7656008691555843	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	88a9b0a78c7555cc
+3148	3211	7656008691555843	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	88a9b0a78c7555cc
+3211	3277	7656008692221786	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	b5e6434233e7b580
+3211	3277	7656008692221786	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	b5e6434233e7b580
+3277	3346	7656008692914350	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	e24e2e4f7f4f6354
+3277	3346	7656008692914350	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	e24e2e4f7f4f6354
+3346	3456	7656008693947023	CMakeFiles/flac-populate-complete	2e7c34dc78bf7471
+3346	3456	7656008693947023	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	2e7c34dc78bf7471
+3346	3456	7656008693947023	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	2e7c34dc78bf7471
+3346	3456	7656008693947023	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	2e7c34dc78bf7471

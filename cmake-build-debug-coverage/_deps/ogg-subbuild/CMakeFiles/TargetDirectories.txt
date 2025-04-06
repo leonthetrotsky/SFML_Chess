@@ -1,0 +1,3 @@
+C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/CMakeFiles/ogg-populate.dir
+C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+# ninja log v6
+1	72	7656008584006087	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	e609eb6064f4e571
+1	72	7656008584006087	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	e609eb6064f4e571
+73	1761	7656008600887853	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	9c79c9c910d25d47
+73	1761	7656008600887853	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	9c79c9c910d25d47
+1761	1922	7656008600963382	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	c4b09cc4cbc5a904
+1761	1922	7656008600963382	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	c4b09cc4cbc5a904
+1922	1992	7656008603200791	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	15345ec06eddff7
+1922	1992	7656008603200791	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	15345ec06eddff7
+1993	2058	7656008603861559	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	624e3861f7a4e997
+1993	2058	7656008603861559	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	624e3861f7a4e997
+2059	2125	7656008604536684	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	d95dd714edba3ab1
+2059	2125	7656008604536684	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	d95dd714edba3ab1
+2126	2191	7656008605180642	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	6108e4e71d13ffbb
+2126	2191	7656008605180642	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	6108e4e71d13ffbb
+2191	2261	7656008605871969	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	2e924580d93ae63a
+2191	2261	7656008605871969	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	2e924580d93ae63a
+2261	2356	7656008606840821	CMakeFiles/ogg-populate-complete	1363b4e8a8bf23e2
+2261	2356	7656008606840821	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	1363b4e8a8bf23e2
+2261	2356	7656008606840821	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	1363b4e8a8bf23e2
+2261	2356	7656008606840821	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	1363b4e8a8bf23e2

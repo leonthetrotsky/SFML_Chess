@@ -1,0 +1,21 @@
+# ninja log v6
+3	81	7656008766901667	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	e72955c4688bf0cf
+3	81	7656008766901667	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	e72955c4688bf0cf
+81	3428	7656008800378450	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	8d33fd7ca5463cbc
+81	3428	7656008800378450	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	8d33fd7ca5463cbc
+3429	3601	7656008800454720	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	79d11d95b272d16
+3429	3601	7656008800454720	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	79d11d95b272d16
+3601	3690	7656008802976930	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	ef4be0023d7a5e4c
+3601	3690	7656008802976930	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	ef4be0023d7a5e4c
+3690	3759	7656008803679253	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	8e012e905549af9a
+3690	3759	7656008803679253	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	8e012e905549af9a
+3759	3839	7656008804478749	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	423ea6126707dacd
+3759	3839	7656008804478749	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	423ea6126707dacd
+3840	3912	7656008805192751	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	a2141494c4cced53
+3840	3912	7656008805192751	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	a2141494c4cced53
+3912	3988	7656008805950251	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	4db2166e3fe2f524
+3912	3988	7656008805950251	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	4db2166e3fe2f524
+3989	4101	7656008807092147	CMakeFiles/vorbis-populate-complete	d4e45caba3171211
+3989	4101	7656008807092147	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	d4e45caba3171211
+3989	4101	7656008807092147	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	d4e45caba3171211
+3989	4101	7656008807092147	C:/Users/auden/CLionProjects/SFML_Chess/cmake-build-debug-coverage/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	d4e45caba3171211
