@@ -23,5 +23,6 @@ int main()
         chessBoard.display(window);
 
         window.display();
+        std::cout << "Hello";
     }
 }
